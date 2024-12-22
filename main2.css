@@ -1,0 +1,27 @@
+.main2{
+align-items: center;
+}
+
+.sub-divs2{
+flex-direction: row;
+justify-content: center;
+gap: 35px;
+}
+
+.img-div2{
+height: 150px;
+width: 150px;
+text-align: center;
+}
+
+.image2{
+border-color: #40a3ff;
+border-style: solid;
+border-radius: 5px;
+
+}
+
+.p2{
+font-size: 15px;
+margin-top: 5px;
+}
